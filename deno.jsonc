@@ -3,6 +3,9 @@
         "lib": [
             "deno.window",
             "DOM"
+        ],
+        "types": [
+            "./types.d.ts"
         ]
     }
 }
